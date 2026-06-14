@@ -4,6 +4,8 @@ DraftMe is an AI resume tailoring tool. Upload a PDF resume, paste a job descrip
 
 The app extracts structured information from the resume, parses the job posting, optimizes the resume against the role, validates the result, and renders the final HTML to PDF.
 
+Co-authored with Codex (didn't find how to make Codex-attributed commits)
+
 ## What It Does
 
 - Extracts resume content from uploaded PDFs with PyMuPDF
