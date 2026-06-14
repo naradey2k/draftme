@@ -1,10 +1,3 @@
----
-title: DraftMe
-sdk: docker
-app_port: 7860
-pinned: false
----
-
 # DraftMe
 
 DraftMe is an AI resume tailoring tool. Upload a PDF resume, paste a job description, choose a model, and generate a targeted one-page resume PDF.
