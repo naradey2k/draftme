@@ -1,4 +1,7 @@
 .env
+.env.example
+.hfignore
+.dockerignore
 .venv/
 __pycache__/
 *.py[cod]
