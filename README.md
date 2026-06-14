@@ -34,6 +34,10 @@ Both models are served through OpenAI-compatible Modal endpoints.
 - WeasyPrint for PDF rendering
 - Jinja2 resume templates
 
+## Deployment
+
+DraftMe runs as a Dockerized ASGI app. The UI can be hosted on Hugging Face Spaces, while model inference is handled by separate Modal-hosted vLLM endpoints.
+
 ## Local Run
 
 ```bash
